@@ -6,6 +6,7 @@
 <a href="https://twitter.com/TaiwanTodayJP">🇯🇵</a>
 <a href="https://twitter.com/taiwanheute">🇩🇪</a>
 <a href="https://twitter.com/noticiastaiwan">🇪🇸</a>
+<a href="https://twitter.com/taiwanhoy">🇪🇸</a>
 <a href="https://twitter.com/taiwanreview1">🇬🇧</a>
 <a href="https://twitter.com/trending_taiwan">🇺🇸</a>
 <a href="https://twitter.com/SiteTaiwanInfo">🇫🇷</a>
